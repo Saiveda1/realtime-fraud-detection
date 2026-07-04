@@ -1,0 +1,11 @@
+# Real-Time Fraud Detection — pinned-ish deps (standard portfolio stack).
+# Everything runs offline, CPU-only, no external services or API keys.
+numpy>=1.26,<3
+pandas>=2.1
+scikit-learn>=1.4
+pyarrow>=15
+polars>=0.20
+duckdb>=0.10
+scipy>=1.11
+matplotlib>=3.8
+pytest>=8.0
