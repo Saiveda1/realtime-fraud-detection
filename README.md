@@ -57,9 +57,9 @@ Well inside a real-time budget (p99 **1.19 ms** ≪ 25 ms). Full numbers in
 
 ---
 
-## Project Brief
+## Project Document
 
-- Visual PDF brief: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
+- Research report: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
 
 ## Screenshots
 
