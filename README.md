@@ -57,11 +57,9 @@ Well inside a real-time budget (p99 **1.19 ms** ≪ 25 ms). Full numbers in
 
 ---
 
-## Project Document
+## Project Brief
 
-- Prepared for **Sai Veda**
-- Publishing account: **Nikeshk834**
-- Full handoff note: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
+- Visual PDF brief: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
 
 ## Screenshots
 
